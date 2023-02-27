@@ -22,5 +22,5 @@
 
 接口文档：[https://www.showdoc.com.cn/escook/3707158761215217](https://www.showdoc.com.cn/escook/3707158761215217)
 ## 界面展示
-![enter image description here](../README.assets/1677495230094.png)
+![enter image description here](/assets/images/1677495230094.png)
 
