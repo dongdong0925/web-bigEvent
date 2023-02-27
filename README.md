@@ -1,8 +1,8 @@
 # 基于layui的响应式文章后台管理系统
 
-项目预览地址：
+项目预览地址： (http://538j351b54.imdo.co:46072/login.html)
       
-       . 账号：dongdong0925    
+      - 账号：dongdong0925    
       -  密码：222222   -  
       -  或者自己注册账号~
 
@@ -22,5 +22,5 @@
 
 接口文档：[https://www.showdoc.com.cn/escook/3707158761215217](https://www.showdoc.com.cn/escook/3707158761215217)
 ## 界面展示
-![enter image description here](./assets/1677495230094.png)
+![enter image description here](/README.assets/1677495230094.png)
 
