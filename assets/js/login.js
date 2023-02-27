@@ -52,7 +52,7 @@ $(function () {
   //导入 layer：
   var layer = layui.layer
   //调用 `layer.msg()` 提示消息：
-  layer.msg('注册成功，请登录！')
+  // layer.msg('注册成功，请登录！')
 
   // 监听登录表单的提交事件
   $('#form_login').submit(function (e) {
