@@ -2,7 +2,7 @@
 
 项目预览地址：
        (http://538j351b54.imdo.co:46072/login.html)
-       . 账号：dongdong0925    
+      - 账号：dongdong0925    
       -  密码：222222   -  
       -  或者自己注册账号~
 
